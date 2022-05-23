@@ -1,0 +1,6 @@
+pytelegrambotapi
+numpy
+scipy
+opencv-python
+albumentations==1.0.0
+onnxruntime
